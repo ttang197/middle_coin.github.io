@@ -50,4 +50,4 @@ document.getElementById('amount').addEventListener('keypress', function(e) {
     if (e.key === 'Enter') {
         calculateChange();
     }
-});
+}); 
